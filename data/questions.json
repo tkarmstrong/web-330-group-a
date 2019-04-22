@@ -1,0 +1,92 @@
+{
+  "data": {
+    "title": "231 Quiz",
+    "categories": ["Variables", "Arguments", "Functions"],
+    "questions": [
+      {
+        "category": "Variables",
+        "question": "What variable is constantly visible in the JavaScript code?",
+        "a": "Global Variable",
+        "b": "Local Variable",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "A"
+      },
+      {
+        "category": "Variables",
+        "question": "What variable is visible only inside the function where it is defined?",
+        "a": "Global Variable",
+        "b": "Local Variable",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "B"
+      },
+      {
+        "category": "Variables",
+        "question": "Which variable takes priority over another when the names are the same?",
+        "a": "Global Variable",
+        "b": "Local Variable",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "A"
+      },
+      {
+        "category": "Arguments",
+        "question": "One can pass an unsigned function as an argument to another function.",
+        "a": "True",
+        "b": "False",
+        "answer": "A"
+      },
+      {
+        "category": "Arguments",
+        "question": "How can the type of arguments pass to a function?",
+        "a": "typeof operator",
+        "b": "getType Function",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "A"
+      },
+      {
+        "category": "Arguments",
+        "question": "How can the total number of arguments be passed to a function?",
+        "a": "Using args.length property",
+        "b": "Using arguments.length property",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "B"
+      },
+      {
+        "category": "Functions",
+        "question": "You can assign an anonymous function to a variable?",
+        "a": "True",
+        "b": "False",
+        "answer": "A"
+      },
+      {
+        "category": "Functions",
+        "question": "What is a valid type of function javaScript supports?",
+        "a": "Named function",
+        "b": "Anonymous function",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "C"
+      },
+      {
+        "category": "Functions",
+        "question":"You can pass an anonymous function as an argument to another function",
+        "a": "True",
+        "b": "False",
+        "answer": "A"
+      },
+      {
+        "category": "Bonus",
+        "question": "What is correct about callbacks?",
+        "a": "A callback is a plan JavaScript function passed to a method as an argument or option.",
+        "b": "Callbacks can be events, called to give the user a chance to react when a certain state is triggered.",
+        "c": "Both",
+        "d": "Neither",
+        "answer": "C"
+      }
+    ]
+  }
+}
